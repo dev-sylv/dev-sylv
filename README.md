@@ -41,17 +41,6 @@ I’m also the Technical Lead for **Sui on Campus Student Club UNIZIK**
   <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=dev-sylv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sylv&layout=compact&theme=tokyonight" />
 </p>
-## 📌 Top Contributions & Languages
-
-<p align="center">
-  <!-- Top Contributed Repos -->
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=dev-sylv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-  
-  <!-- Top Languages -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sylv&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 
 ## 🛠 Tech Stack
