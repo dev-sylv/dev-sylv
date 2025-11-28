@@ -24,8 +24,10 @@ I’m also the Technical Lead for **Sui on Campus**, where I teach, mentor, and 
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/chimnecherem-adimike-91986a213/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Chimnecherem-Sylvia)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com](https://x.com/dev_sylv)
+[![Instagram](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://www.instagram.com/dev_sylv/)
+[![Facebook](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)]((https://web.facebook.com/dev.sylv)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/dev-sylv)
 ---
 
 ## 🛠 Tech Stack
@@ -67,13 +69,13 @@ I’m also the Technical Lead for **Sui on Campus**, where I teach, mentor, and 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sylv&theme=tokyonight" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chimnecherem-Sylvia&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Chimnecherem-Sylvia&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-sylv&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=dev-sylv&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimnecherem-Sylvia&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sylv&layout=compact&theme=tokyonight)
 
 ---
 
