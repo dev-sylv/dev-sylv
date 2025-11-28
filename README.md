@@ -16,8 +16,16 @@ I’m also the Technical Lead for **Sui on Campus**, where I teach, mentor, and 
 - 🧪 Currently building **ecoPAY** (reverse vending + fintech recycling)  
 - ♻️ Founder of **ecoBIN** – connecting rural communities to reliable waste collectors  
 - 🛠 Technical Lead — Sui On Campus  
-- 🎤 Speaker | Educator | Community Builder  
+- 🎤 Speaker | Educator | Community Builder
+- 📫 How to reach me adimikesylvia@gmail.com
 
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/chimnecherem-adimike-91986a213/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Chimnecherem-Sylvia)
 ---
 
 ## 🛠 Tech Stack
@@ -55,17 +63,17 @@ I’m also the Technical Lead for **Sui on Campus**, where I teach, mentor, and 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-sylv&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-sylv&theme=tokyonight" />
+</p>
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chimnecherem-Sylvia&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chimnecherem-Sylvia&theme=tokyonight" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=Chimnecherem-Sylvia&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff)](https://x.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/Chimnecherem-Sylvia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chimnecherem-Sylvia&layout=compact&theme=tokyonight)
 
 ---
 
